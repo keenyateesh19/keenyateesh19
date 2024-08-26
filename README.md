@@ -5,7 +5,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
+- 🎓 &nbsp; Studying Electronics & Computer Engineering at Reva University Bengaluru.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Software Design Patterns.
 - ✍️ &nbsp; Love to Trek, Write Blogs and Meet New People.
 
